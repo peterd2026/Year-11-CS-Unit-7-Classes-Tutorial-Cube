@@ -31,8 +31,5 @@ public class Cube {
         return side * side * side;
     }
 
-    @Override
-    public String toString() {
-        return "Cube{side=" + side + "}";
-    }
+
 }
